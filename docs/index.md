@@ -3,7 +3,7 @@ title: 💡 Lightcodepedia
 layout: default
 ---
 
-# 👋 Hello this is **Georges'** Node
+# 👋 Hello this is **Georges'** LightNode
 
 📖 _Learn how to build apps with little or no code._
 
