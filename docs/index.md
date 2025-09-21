@@ -1,5 +1,5 @@
 ---
-title: 💡 Georges' Lightcodepedia
+title: 💡 Lightcodepedia
 layout: default
 ---
 
