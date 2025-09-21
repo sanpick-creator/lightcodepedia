@@ -1,9 +1,9 @@
 ---
-title: 💡 Lightcodepedia
+title: 💡 Georges' Lightcodepedia
 layout: default
 ---
 
-# 👋 Hello Learner 
+# 👋 Hello this is **Georges'** Node
 
 📖 _Learn how to build apps with little or no code._
 
