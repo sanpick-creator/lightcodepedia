@@ -1,1 +1,1 @@
-[ℹ️ Georges](zamgeorges.github.io) |
+[ℹ️ Georges](zamgeorges.github.io/lightcodepedia) |
