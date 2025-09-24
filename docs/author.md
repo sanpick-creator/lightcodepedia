@@ -7,7 +7,7 @@ _Use Markdown syntax to format your text and add links, images, and other media.
 __Drop your photo here:__
 ![Me]()
 
-I'm [Your Name], a [Your Profession/Role] based in [Your Location]. I have a passion for [Your Interests or Hobbies].
+I'm [**San**], a [architect] based in [_Austria_]. I have a passion for [people and places].
 
 # My journey
 My journey with Lightcode began when I applied for Lightcode Academy.
@@ -16,7 +16,7 @@ My journey with Lightcode began when I applied for Lightcode Academy.
 During the Academy I learned:
 - [x] Github — repository management
 - [x] GitHub Pages — website hosting & deployment
-- [ ] Markdown — text formatting, including **bold**, _italic_, and checkboxes
+- [x] Markdown — text formatting, including **bold**, _italic_, and checkboxes
 - [ ] StreamlitCloud deployment — app deployment
 - [ ] [Python](python.md) — basics of the most popular programming language
 - [ ] No-code/Low-code platforms — basics of visual programming
